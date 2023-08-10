@@ -5,7 +5,7 @@
  * @version 1.4
  * @description Kontroler Odtwarzacza Spotify
  * @website https://github.com/WikZal
- * @source https://github.com/WikZal
+ * @source https://github.com/WikZal/SpotifyControlBD
  
  */
 
